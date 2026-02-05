@@ -4,7 +4,7 @@ const app = express();
 app.use(express.json());
 
 const users =   {
-       1:{name:"Krishna Sharma",age:"19"},
+       1:{name:"Shivam Shukla",age:"19"},
     2:{name:"Abhay",age:"21"}
 };
 
